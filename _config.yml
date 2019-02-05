@@ -3,8 +3,8 @@ title: AI Conference Deadlines # (Maintained by @abhshkdz)
 description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
 author: Abhishek Das
 
-domain: "v1vek.com"
-baseurl: "vivektalks"
+domain: "vivektalks.v1vek.com"
+baseurl: ""
 
 twitter_username: vivek_kumar
 twitter_hashtag: machinelearning
