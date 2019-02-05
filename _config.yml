@@ -14,4 +14,4 @@ github_repo: vivektalks
 markdown: kramdown
 ga_id: UA-36274081-2
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
